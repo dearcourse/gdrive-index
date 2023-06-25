@@ -1,3 +1,5 @@
+This is just a Public repo of the Project. Orignally available at (https://gitlab.com/GoogleDriveIndex/Google-Drive-Index)
+
 # Google Personal/Shared Drive Index
 
 [![Year](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/rank)](https://www.jsdelivr.com/package/npm/@googledrive/index)
